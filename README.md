@@ -7,7 +7,7 @@ In 1st notebook, I instantiated the CNN architecture specified in models.py. The
 
 In the 2nd notebook, I used Haar Cascade detector to detect faces in an image. Pre-processed those face images so that they are grayscaled, normalized and transformed into Tensors to be accepted as input to the trained model from Noteboook 1. The result is detetected faces with facial keypoints!
 
-
+![](images/obama.png)
 
 Code was developed in Pytorch. 
 
