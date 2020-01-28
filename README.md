@@ -5,7 +5,7 @@ From models.py, I defined the network architecture using the original Facial Key
 
 In the 1st notebook, I instantiated the CNN architecture specified in models.py. The network takes in a grayscale, square image. I applied data transform to turn input image into a normalized, square, grayscale image and then a Tensor for the model to take it as input. I selected a loss function and optimizer for training the model. The model was trained using Google Colab's compute resources. 
 
-In the 2nd notebook, I used Haar Cascade detector to detect faces in an image. Pre-processed those face images so that they are grayscaled, normalized and transformed into Tensors to be accepted as input to the trained model from Noteboook 1. The result is detetected faces with facial keypoints!
+In the 2nd notebook, I used Haar Cascade detector to detect faces in an image. Pre-processed those face images so that they are grayscaled, normalized and transformed into Tensors to be accepted as input to the trained model from Noteboook 1. The result are detected faces with facial keypoints!
 
 ![](images/obama.png) ![](images/michelle.png)
 
