@@ -1,7 +1,7 @@
 # Facial_Keypoint_Detection
 This was my 1st project as part of the Udacity Computer Vision Nanodegree Program. 
 
-From models.py, I defined the network architecture using the original Facial Keypoint Paper written by Naimish Agarwa et al. Check paper here https://arxiv.org/pdf/1710.00977.pdf 
+From models.py, I defined the network architecture using the original Facial Keypoint Paper written by Naimish Agarwal et al. Check paper here https://arxiv.org/pdf/1710.00977.pdf 
 
 In 1st notebook, I instantiated the CNN architecture specified in models.py. The network takes in a grayscale, square image. I applied data transform to turn input image into a normalized, square, grayscale image and then a Tensor for the model to take it as input. I selected a loss function and optimizer for training the model. The model was trained using Google Colab's compute resources. 
 
