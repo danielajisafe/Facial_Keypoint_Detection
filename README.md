@@ -1,5 +1,5 @@
 # Facial_Keypoint_Detection
-This was my 1st project as part of the Udacity Computer Vision Nanodegree Program. 
+This was my 1st project as part of the Udacity Computer Vision Nanodegree Program. In this project, I combined my knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face.
 
 From models.py, I defined the network architecture using the original Facial Keypoint Paper written by Naimish Agarwal et al. Check paper here https://arxiv.org/pdf/1710.00977.pdf 
 
